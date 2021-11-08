@@ -1,0 +1,19 @@
+{
+  "name": "snot",
+  "version": "0.0.1",
+  "description": "Bot to automate the checkout process on many sneaker websites.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinschuster/snot.git"
+  },
+  "author": "Justin Schuster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinschuster/snot/issues"
+  },
+  "homepage": "https://github.com/justinschuster/snot#readme"
+}
